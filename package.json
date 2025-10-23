@@ -1,0 +1,29 @@
+{
+  "name": "goit-node-blended-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenryLytvyn/goit-node-blended-2.git"
+  },
+  "keywords": [],
+  "author": "Henry <hennadii.lytvyn@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenryLytvyn/goit-node-blended-2/issues"
+  },
+  "homepage": "https://github.com/HenryLytvyn/goit-node-blended-2#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.36.0",
+    "eslint": "^9.36.0",
+    "globals": "^16.4.0",
+    "nodemon": "^3.1.10"
+  }
+}
